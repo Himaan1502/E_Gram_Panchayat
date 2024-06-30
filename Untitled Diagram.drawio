@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2024-06-30T14:37:05.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.4" etag="es3evw9L86lbAtCqUpC-" type="github">
+  <diagram name="Page-1" id="D93moYYt9Y1sAFQsUa5a">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Terminal Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="679" width="122" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Icons 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="108" y="102" width="64" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Icons 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="408" y="102" width="64" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Icons 3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="708" y="102" width="64" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Icons 4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1008" y="102" width="65" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Icons 5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1308" y="102" width="64" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="132" y="205" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="432" y="205" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="732" y="205" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="205" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1332" y="205" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Draw multiple small icons representing" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="Draw multiple small icons representing" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="Draw multiple small icons representing" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="Draw multiple small icons representing" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.49;entryY=0.01;" edge="1" parent="1" source="2" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="Draw multiple small icons representing" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0.01;" edge="1" parent="1" source="2" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="68" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="Icon 1" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.53;entryY=-0.02;" edge="1" parent="1" source="3" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="Icon 2" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.53;entryY=-0.02;" edge="1" parent="1" source="4" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="Icon 3" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.53;entryY=-0.02;" edge="1" parent="1" source="5" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="Icon 4" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.52;entryY=-0.02;" edge="1" parent="1" source="6" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="Icon 5" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.52;entryY=-0.02;" edge="1" parent="1" source="7" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
